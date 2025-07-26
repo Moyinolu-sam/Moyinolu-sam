@@ -7,16 +7,17 @@
 - <b>Power BI</b>
   - [Gender Equality in workplace](https://github.com/Moyinolu-sam/PowerBi-Project) <b>
 - <b>Microsoft Excel</b>
-  - [Product Review](https://github.com/Moyinolu-sam/Excel-Project)
+  - [Amazon's Product Review](https://github.com/Moyinolu-sam/Excel-Project)
+- <b>Tableau</b>
+  - [Daikibo's Downtime per Factory and Machine](https://github.com/Moyinolu-sam/Tableau)
   
 
-<h2>📺 Certifications</h2>
+<h2>📜 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Deloitte Data Analytics
+- University of Colorado Boulder Python Fundamentals
+- Chrisgate Computer College Web Development
+- Dsa Incubator's Hub Data Analysis
 
 <h2> 🤳 Connect with me:</h2>
 
